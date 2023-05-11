@@ -1,3 +1,4 @@
 # IS_170_Binder
 Hello, My name is David Bautista and I have created this digital binder to showcase my work within IS 170 Machine Learning Course.
 Within this course and binder, you will find the following topics: Feature Engineering, Text mining & Natural language processing,  Association Rules, Principal component analysis, K-Nearest Neighbors, Naive Bayes, Regression Analysis, Decision Tree & Random Forests,  Support Vector Machines and Social Network Analytics. Through this course I was able to find real world applications for each algorithm and dive deeper into possible buisness applications. Feel free to click around by navigating through the main branch or by visiting the table of contents.
+![image](https://github.com/david5421/IS_170_Binder/assets/98560756/a967cbbe-c836-4cff-aeb3-f10f5a7dcbbe)
