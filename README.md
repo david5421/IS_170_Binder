@@ -1,2 +1,12 @@
 # IS_170_Binder
-[Lab 2](https://github.com/david5421/IS_170_Binder/tree/2.-Feature-Engineering)
+Text mining & Natural language processing
+Feature Engineering
+Sentiment Analysis
+K-Means Clustering
+Assocation Rules
+Principle Components Analysis
+K-Nearest Neighbor
+Naive Bayes
+Regresion Model
+Support Vector Machines
+Socail Network Analytics
